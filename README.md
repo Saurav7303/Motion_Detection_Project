@@ -26,5 +26,7 @@ NumPy (for efficient numerical computations)
 
 Matplotlib (for visualization and debugging)
 
+Imutils (for translating, skeletonizing, displaying)
+
 
 This project is an AI/ML based implementation. 
